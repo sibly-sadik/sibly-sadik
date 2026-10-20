@@ -1,9 +1,24 @@
 # Hi there 👋, I'm Md. Sibly Sadik Shimul
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=22&duration=2800&pause=100&color=A78BFA&center=true&vCenter=true&random=true&width=850&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Md.+Sibly+Sadik+Shimul;A+Passionate+Web+Developer;2.1%2B+Years+of+Experience;Full-Stack+%26+Backend+Enthusiast;JavaScript+%7C+PHP+%7C+Laravel)](https://git.io/typing-svg)
+
  <div align="center">
      <img src="./profile.svg" alt="Profile" width="100%" />
-   </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=100&color=4D38B1&center=true&vCenter=true&random=true&width=1000&lines=%F0%9F%94%A5+A+Passionate+Web+Developer+%F0%9F%94%A5;%F0%9F%94%A5+2.1%2B+Years+of+Experience+%F0%9F%94%A5;%F0%9F%94%A5+Full-Stack+%26+Backend+Enthusiast+%F0%9F%94%A5)](https://git.io/typing-svg)
+ </div>
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sibly-sadik&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sibly-sadik&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=sibly-sadik&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
 
 <br/>
