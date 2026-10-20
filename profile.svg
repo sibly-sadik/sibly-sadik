@@ -54,27 +54,27 @@
 <text x="1125" y="208" font-size="14" text-anchor="end" fill="#E2E8F0">Uttara, Dhaka, Bangladesh</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.26s" fill="freeze"/>
 <text x="470" y="231" font-size="14" fill="#22D3EE">Education</text><line x1="555.6" y1="227" x2="812.6" y2="227" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="231" font-size="14" text-anchor="end" fill="#E2E8F0">BSc in CSE, Uttara University (2027)</text></g>
+<text x="1125" y="231" font-size="14" text-anchor="end" fill="#E2E8F0">BSc in CSE, Uttara University </text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.38s" fill="freeze"/>
 <text x="470" y="254" font-size="14" fill="#22D3EE">Status</text><line x1="530.4" y1="250" x2="879.8" y2="250" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="254" font-size="14" text-anchor="end" fill="#E2E8F0">Student | 2.1 yrs Experience</text></g>
+<text x="1125" y="254" font-size="14" text-anchor="end" fill="#E2E8F0">Web Developer | 2.1 yrs Experience</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/>
 <text x="470" y="285" font-size="14" fill="#94A3B8">- Stack</text><line x1="537.2" y1="281" x2="1125" y2="281" stroke="rgba(148,163,184,0.35)"/></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.62s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.62s" fill="freeze"/>
 <text x="470" y="308" font-size="14" fill="#22D3EE">Core.Lang</text><line x1="555.6" y1="304" x2="997.4" y2="304" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="308" font-size="14" text-anchor="end" fill="#E2E8F0">PHP (OOP), SQL</text></g>
+<text x="1125" y="308" font-size="14" text-anchor="end" fill="#E2E8F0">PHP, javascript, TypeScript</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.74s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.74s" fill="freeze"/>
 <text x="470" y="331" font-size="14" fill="#22D3EE">Core.Frontend</text><line x1="589.2" y1="327" x2="804.2" y2="327" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="331" font-size="14" text-anchor="end" fill="#E2E8F0">Bootstrap 5, ReactJS, Vue.js, Magento</text></g>
+<text x="1125" y="331" font-size="14" text-anchor="end" fill="#E2E8F0">HTML5, CSS3, Bootstrap 5, ReactJS, Vue.js, Magento</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.86s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.86s" fill="freeze"/>
 <text x="470" y="354" font-size="14" fill="#22D3EE">Core.Backend</text><line x1="580.8" y1="350" x2="905.0" y2="350" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="354" font-size="14" text-anchor="end" fill="#E2E8F0">Laravel, MVC, RESTful API</text></g>
+<text x="1125" y="354" font-size="14" text-anchor="end" fill="#E2E8F0">Laravel, MVC, Node.js, RESTful API</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.98s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.98s" fill="freeze"/>
 <text x="470" y="377" font-size="14" fill="#22D3EE">Core.Database</text><line x1="589.2" y1="373" x2="1014.2" y2="373" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="377" font-size="14" text-anchor="end" fill="#E2E8F0">SQL Database</text></g>
+<text x="1125" y="377" font-size="14" text-anchor="end" fill="#E2E8F0">SQL Database, MongoDB</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.10s" fill="freeze"/>
 <text x="470" y="400" font-size="14" fill="#22D3EE">Core.Infra</text><line x1="564.0" y1="396" x2="930.2" y2="396" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="400" font-size="14" text-anchor="end" fill="#E2E8F0">Git, Docker, JIRA, MCP</text></g>
+<text x="1125" y="400" font-size="14" text-anchor="end" fill="#E2E8F0">Git, Docker, Vercel, Trello, JIRA, MCP</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.22s" fill="freeze"/>
 <text x="470" y="431" font-size="14" fill="#94A3B8">- Contact</text><line x1="554.0" y1="427" x2="1125" y2="427" stroke="rgba(148,163,184,0.35)"/></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.34s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.34s" fill="freeze"/>
