@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Md. Sibly Sadik Shimul
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=22&duration=2800&pause=100&color=A78BFA&center=true&vCenter=true&random=true&width=850&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Md.+Sibly+Sadik+Shimul;A+Passionate+Web+Developer;2.1%2B+Years+of+Experience;Full-Stack+%26+Backend+Enthusiast;JavaScript+%7C+PHP+%7C+Laravel)](https://git.io/typing-svg)
 
  <div align="center">
