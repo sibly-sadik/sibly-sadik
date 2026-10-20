@@ -20,6 +20,34 @@
   />
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sibly-sadik&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sibly-sadik&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibly-sadik&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="Top Languages"
+  />
+</picture>
 
 <br/>
 
@@ -100,15 +128,6 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<div align="center">
-  <p>
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibly-sadik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibly-sadik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
 
 ![footer Banner](https://raw.githubusercontent.com/sibly-sadik/sibly-sadik/main/banner.gif)
 
